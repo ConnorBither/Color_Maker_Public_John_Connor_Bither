@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Color Maker</string>
+    <string name="reset">Reset</string>
+    <string name="onStart">1.0</string>
+</resources>
